@@ -1,3 +1,3 @@
-# AkemiSwitcher
+# NeosuSwitcher
 
-osu!katakuna Switcher.
+osu!nekosu Switcher.
